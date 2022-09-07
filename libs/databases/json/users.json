@@ -1,0 +1,26 @@
+{
+    "212617078346": {
+        "user_limit": 100,
+        "user_exp": 0,
+        "user_level": 4,
+        "user_premium": false,
+        "user_premium_end": null,
+        "user_create_at": "2022-09-07 23:21:31"
+    },
+    "6282125388500": {
+        "user_limit": 100,
+        "user_exp": 300,
+        "user_level": 1,
+        "user_premium": false,
+        "user_premium_end": null,
+        "user_create_at": "2022-09-07 23:30:53"
+    },
+    "212684673842": {
+        "user_limit": 100,
+        "user_exp": 1000,
+        "user_level": 2,
+        "user_premium": false,
+        "user_premium_end": null,
+        "user_create_at": "2022-09-07 23:57:38"
+    }
+}
